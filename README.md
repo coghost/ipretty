@@ -1,0 +1,2 @@
+# ipretty
+pretty colorful terminal
